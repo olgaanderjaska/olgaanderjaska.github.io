@@ -1,0 +1,16 @@
+* {
+ 	box-sizing: border-box;
+
+ 	}
+
+ html {
+    position: relative;
+    min-height: 100%;
+   }	
+
+body{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background: #CDEBF7;
+	margin: 0 0 90px; /* bottom = footer height */
+    background: red;
+}
