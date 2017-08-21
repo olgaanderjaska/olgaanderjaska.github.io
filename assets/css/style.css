@@ -11,7 +11,7 @@
  	-webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    text-align: center;
+
 
  	}
 
@@ -19,16 +19,17 @@
     position: relative;
     min-height: 100%;
     width: 100%;
-   }	
+   }
 
 body{
 	font-family: "Lucida Console", Monaco, monospace;
 	background: #F5F5F5;
 	margin: 0 auto;
-	padding: 0; 
+	padding: 0;
 	color: 	#FF6347;
-	width: 90%; 
+	width: 90%;
 }
+
 .content {
 	overflow: auto;
 
@@ -44,7 +45,6 @@ h3 {
 	text-align: center;
 	letter-spacing: -2px;
 	top: 50px;
-	background-image: url(locationoftheimage);
 }
 
 .header-Logomark {
@@ -59,21 +59,20 @@ h3 {
 }*/
 
 .nameHeader {
-	
+
 	text-align: center;
 }
 
 
 h1 {
 	 text-align: center;
-     background-image: url(locationoftheimage);
-     position: absolute; 
-     top: 350px; 
-     left: 0; 
+     position: absolute;
+     top: 350px;
+     left: 0;
      width: 100%;
      font-size: 600%;
      font-family: "Courier New", Courier, monospace;
-     letter-spacing: -3px;  
+     letter-spacing: -3px;
 }
 
 
@@ -88,59 +87,67 @@ h1 {
 	text-align: center;
 }
 
-.cl1 {
-	width: 300px;
+.cl {
+	padding: 40px;
+}
+
+.p-card{
+	background:#f5f5f5;
+	box-sizing: border-box;
+	padding:10px;
+	border: .1px solid gray;
+	border-right: 0;
+}
+
+.p-card img{
+	width:100%;
+	margin:auto;
+}
+
+.row{
+	margin:0;
+}
+
+/*
+.p-card1 {
 	float: left;
-	margin: 40px 90px 0px 60px;
+	margin: 40px 20px 20px 80px;
+	display: inline;
+
+}
+
+.p-card2 {
+	float: left;
+	margin: 20px 20px 40px 50px;
 	display: inline;
 }
 
-.cl2 {
-	width: 300px;
+.p-card3 {
 	float: left;
-	margin: 10px 0px 0px -20px;
-	display: inline;
-}
-
-.cl3 {
-	width: 300px;
-	float: left;
-	margin: 0px 0px 20px 70px;
+	margin:0px 0px 0px 60px;
 	display: inline;
 
 }
 
-#p-Folio {
-	text-align: center;
-}
-
-.portfolio { 
- 
-
+.p-card4 {
+	float: left;
+	margin: 40px 20px 20px 80px;
+	display: inline;
 
 }
 
-.P-item {
-	position: relative;
-	overflow: hidden;
-	text-align: center;
+.p-card5 {
+	float: left;
+	margin: -10px -20px 40px 50px;
+	display: inline;
+
 }
- 
+.p-card6 {
+	float: left;
+	margin:0px 0px 0px 60px;
+	display: inline;
 
-.purple {
-  background: #ab3fdd;
-  margin: 40px;
- 
-}
-
-.wine {
-  background: #ae163e;
-  margin: 40px 0px 0px 80px;
- 
-}
-
-
-
+}*/
 #footer {
 	text-align: center;
 	padding: 0.5em 0;
@@ -150,4 +157,5 @@ h1 {
 #links {
 	padding: 0.5em 0;
 	text-align: center;
+	font-size: 150%;
 }
