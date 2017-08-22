@@ -51,12 +51,6 @@ h3 {
 	text-align: center;
 }
 
-/*img {
-	position: relative;
-	transform: rotate(90);
-	overflow: hidden;
-	text-align: center;
-}*/
 
 .nameHeader {
 
@@ -75,13 +69,6 @@ h1 {
      letter-spacing: -3px;
 }
 
-
-/*img{
-	position: relative;
-	transform: rotate(90);
-	overflow: hidden;
-	text-align: center;
-}*/
 
 .aboutMain {
 	text-align: center;
@@ -108,46 +95,7 @@ h1 {
 	margin:0;
 }
 
-/*
-.p-card1 {
-	float: left;
-	margin: 40px 20px 20px 80px;
-	display: inline;
 
-}
-
-.p-card2 {
-	float: left;
-	margin: 20px 20px 40px 50px;
-	display: inline;
-}
-
-.p-card3 {
-	float: left;
-	margin:0px 0px 0px 60px;
-	display: inline;
-
-}
-
-.p-card4 {
-	float: left;
-	margin: 40px 20px 20px 80px;
-	display: inline;
-
-}
-
-.p-card5 {
-	float: left;
-	margin: -10px -20px 40px 50px;
-	display: inline;
-
-}
-.p-card6 {
-	float: left;
-	margin:0px 0px 0px 60px;
-	display: inline;
-
-}*/
 #footer {
 	text-align: center;
 	padding: 0.5em 0;
